@@ -6,7 +6,7 @@
 <!--https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherlockx90&label=Profile%20views&color=0e75b6&style=flat" alt="sherlockx90" /> </p>
 
-- 🔭 I’m currently working on **PORTFOLIO**
+- 🔭 I’m currently working on **DICE ROLL GAME**
 
 - 🌱 I’m currently learning **HTML, CSS, JS, REACT, PHP, DBMS, BootStrap, Tailwind-CSS, Ethical Hacking, Python**
 
