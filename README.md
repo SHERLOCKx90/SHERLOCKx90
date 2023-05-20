@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫 Hey! I'm Subhadeep Chell (a.k.a SHERLOCK👾):
+![wallpaper-background-code-sherlock](https://github.com/SHERLOCKx90/SHERLOCKx90/assets/97678993/4e6f1550-48df-4fc3-9952-b433080c34db)
+
 ✏️I'm currently working on Backend Web Development projects using Node.js, Express and Mongo DB💻.<br>👾I'm looking to collaborate on Full stack web projects , MODERN UI/UX Frontend web projects, 3D-UI Frontend web projects, Backend (using Node.js, Express, Mongo DB) web projects⚙️.<br>🤝I'm looking to help with Frontend web development using Tailwind CSS, React JS & Trending UI/UX design concepts🎨. <br>🚀I'm currently learning Three.JS, Animations using different libraries in React JS, Backend Web Development⚡.<br>💭Ask me about UI/UX designing , React JS, Frontend web development using modern Tech-stacks✅.<br>😂Fun fact:  I like  making websites so cool, even my coffee gets jealous! ☕️🔥
 
 
@@ -15,17 +17,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SHERLOCKx90&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/subhadeepchell)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Coding Gems: Dev Quotes Unleashed!
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SHERLOCKx90&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 😂 Code Chaos: Memetastic!
+![life-website-designer](https://github.com/SHERLOCKx90/SHERLOCKx90/assets/97678993/61869d90-9c59-42c0-96c3-e38ce378639c)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SHERLOCKx90&icon=3&color=0)](https://visitcount.itsvg.in)
@@ -33,5 +34,3 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/sherlockx90) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
