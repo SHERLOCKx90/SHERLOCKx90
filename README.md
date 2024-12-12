@@ -1,6 +1,6 @@
 # 💫 Hey! I'm Subhadeep Chell (a.k.a SHERLOCK👾):
 
-![LinkedIn cover - Subhadeep Chell](https://github.com/user-attachments/assets/424e84be-715c-4e44-b365-f87931b46995)
+![3](https://github.com/user-attachments/assets/326a715d-2f25-4a16-9f18-cfcd7b7405a5)
 
 ✏️I'm currently working on Backend Web Development projects using Node.js, Express and Mongo DB💻.<br>👾I'm looking to collaborate on Full stack web projects , MODERN UI/UX Frontend web projects, 3D-UI Frontend web projects, Backend (using Node.js, Express, Mongo DB) web projects⚙️.<br>🤝I'm looking to help with Frontend web development using Tailwind CSS, React JS & Trending UI/UX design concepts🎨. <br>🚀I'm currently learning Three.JS, Animations using different libraries in React JS, Backend Web Development⚡.<br>💭Ask me about UI/UX designing , React JS, Frontend web development using modern Tech-stacks✅.<br>😂Fun fact:  I like  making websites so cool, even my coffee gets jealous! ☕️🔥
 
