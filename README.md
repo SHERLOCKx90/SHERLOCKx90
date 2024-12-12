@@ -1,6 +1,7 @@
 # 👨‍💻 Hey There! I'm Subhadeep Chell.
 
-![Colorful Shapes Header Banner](https://github.com/user-attachments/assets/b2ce4c05-7126-4533-b540-96f00933b954)
+![4](https://github.com/user-attachments/assets/6bb0e4f9-6bae-4658-98fb-f27d439307ea)
+
 
 ## My Objectives
 
