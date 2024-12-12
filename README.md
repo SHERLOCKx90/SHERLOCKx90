@@ -2,7 +2,7 @@
 
 ![3](https://github.com/user-attachments/assets/326a715d-2f25-4a16-9f18-cfcd7b7405a5)
 
-🟦 I'm currently working on Backend Web Development projects using Node.js, Express and Mongo DB💻.<br>🟦 I'm looking to collaborate on Full stack web projects & Backend  projects⚙️.<br>🟦 I'm looking to help with Frontend web development using Tailwind CSS, React JS & Trending UI/UX design concepts🎨. <br>🟦 Ask me about UI/UX designing , React JS, Frontend web development using modern Tech-stacks✅.
+🟦 I'm currently working on Backend Web Development projects using Node.js, Express and Mongo DB.<br>🟦 I'm looking to collaborate on Full stack web projects & Backend  projects.<br>🟦 I'm looking to help with Frontend web development using Tailwind CSS, React JS & Trending UI/UX design concepts. <br>🟦 Ask me about UI/UX designing , React JS, Frontend web development using modern Tech-stacks.
 
 ## Skills:
 
