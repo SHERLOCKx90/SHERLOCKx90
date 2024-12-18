@@ -1,6 +1,6 @@
-# 👨‍💻 Hey There! I'm Subhadeep Chell.
+# 👨‍💻 Hey There!
 
-![4](https://github.com/user-attachments/assets/6bb0e4f9-6bae-4658-98fb-f27d439307ea)
+![Slide 16_9 - 1](https://github.com/user-attachments/assets/65dde07f-f27d-4522-b694-9b2b544e5188)
 
 
 ## My Objectives
