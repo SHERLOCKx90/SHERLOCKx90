@@ -2,7 +2,7 @@
 
 - Currently working on Java Full-Stack applications, Next.js projects, and QA automation using Selenium, TestNG, and Cucumber. <br>
 - Open to collaborate on Java, MERN, and other software development projects. <br>
-- Happy to assist with backend development, API integrations, and full-stack solutions using Java, Spring Boot, React, Next.js, TypeScript SQL and NoSQL databases. <br>
+- Happy to assist with backend development, API integrations, and full-stack solutions using Java, Spring Boot, React, Next.js, TypeScript, SQL and NoSQL databases. <br>
 - Ask me about Java development, QA automation (Selenium, TestNG, Cucumber, etc.), and building scalable, production-ready applications. <br>
 - Experienced in UI/UX design, product design research, and creating user-centric digital experiences. <br>
 
