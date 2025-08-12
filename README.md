@@ -1,16 +1,15 @@
-# 👨‍💻 Hey There!
+## About Me
 
-![Slide 16_9 - 1](https://github.com/user-attachments/assets/65dde07f-f27d-4522-b694-9b2b544e5188)
-
-
-## My Objectives
-
-🟦 I'm currently working on Backend Web Development projects using Node.js, Express and Mongo DB.<br>🟦 I'm looking to collaborate on Full stack web projects & Backend  projects.<br>🟦 I'm looking to help with Frontend web development using Tailwind CSS, React JS & Trending UI/UX design concepts. <br>🟦 Ask me about UI/UX designing , React JS, Frontend web development using modern Tech-stacks.
+- Currently working on Java Full-Stack applications, Next.js projects, and QA automation using Selenium, TestNG, and Cucumber. <br>
+- Open to collaborate on Java, MERN, and other software development projects. <br>
+- Happy to assist with backend development, API integrations, and full-stack solutions using Java, Spring Boot, React, Next.js, TypeScript SQL and NoSQL databases. <br>
+- Ask me about Java development, QA automation (Selenium, TestNG, Cucumber, etc.), and building scalable, production-ready applications. <br>
+- Experienced in UI/UX design, product design research, and creating user-centric digital experiences. <br>
 
 ## Skills
 
   <a href="https://skillicons.dev" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=react,next,figma,js,vite,nodejs,git,html,css,bootstrap,tailwind,express,firebase,mongodb,netlify,vercel,java,typescript,github,redux,googlecloud,vscode,python,mysql,prisma,heroku" />
+    <img align="center" src="https://skillicons.dev/icons?i=react,next,figma,notion,js,vite,nodejs,npm,git,html,css,bootstrap,materialui,tailwind,styledcomponents,express,postman,firebase,mongodb,postgres,netlify,vercel,java,typescript,github,redux,googlecloud,vscode,python,mysql,prisma,heroku,selenium,aws,docker,jenkins,babel,bash,eclipse,fastapi,gherkin,maven,idea,powershell,webstorm,webpack,vscode,replit" />
   </a>
 
   
@@ -20,5 +19,5 @@
 
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadeep-chell-a6b3a524b/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Subhadeep-Chell-1chat) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21597352/subhadeep-chell) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/subhadeepchell) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/subhadeepchell) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SHERLOCKx90)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadeep-chell-a6b3a524b/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21597352/subhadeep-chell) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/subhadeepchell) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SHERLOCKx90)
 
