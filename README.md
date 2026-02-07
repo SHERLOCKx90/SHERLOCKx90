@@ -24,14 +24,69 @@ I build scalable, production-grade full-stack applications with a strong focus o
 - Collaborating on **Java, Full-Stack, and system-oriented projects**
 - Contributing to **high-impact, engineering-driven products**
 
+## 🛠️ Developer Workflow
 
-## Skills
-
+- IDEs:
   <a href="https://skillicons.dev" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=react,next,figma,notion,js,vite,nodejs,npm,git,html,css,bootstrap,materialui,tailwind,styledcomponents,express,postman,firebase,mongodb,postgres,netlify,vercel,java,typescript,github,redux,googlecloud,vscode,python,mysql,prisma,heroku,selenium,aws,docker,jenkins,babel,bash,eclipse,fastapi,gherkin,maven,idea,powershell,webstorm,webpack,vscode,replit" />
+    <img align="center" src="https://skillicons.dev/icons?i=vscode,idea,webstorm,eclipse" />
+  </a> 
+- OS:
+  <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=linux,windows,apple" />
+  </a>
+- Version Control:
+  <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  </a>
+- Backend Development:
+  <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres,mysql,selenium,fastapi,bash,gherkin,maven,spring,redis,regex,rabbitmq,kafka,postman,java,python,bash,php,appwrite,hibernate,graphql" />
+  </a>
+- Frontend Development:
+  <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=react,nextjs,vite,npm,yarn,pnpm,html,css,bootstrap,materialui,tailwind,styledcomponents,typescript,redux,prisma,babel,webpack,svg,jest" />
+  </a>
+- UI/UX Design:
+  <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=figma,webflow,xd" />
+  </a>
+
+## ☁️ Cloud & DevOps
+
+- Containerization: <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  </a>
+- Cloud Platform: <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=aws,googlecloud" />
+  </a>
+- Database Deployment: <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=aws,postgres" />
+  </a>
+- Backend Hosting: <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=heroku,aws,googlecloud" />
+  </a>
+- Frontend Hosting: <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=netlify,vercel" />
+  </a> 
+- CI/CD: <a href="https://skillicons.dev" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=githubactions,jenkins" />
   </a>
 
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadeep-chell-a6b3a524b/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21597352/subhadeep-chell) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/subhadeepchell) [![Leetcode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SHERLOCKx90)
+
+<a href="https://www.linkedin.com/in/subhadeepchell/" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+
+<a href="https://stackoverflow.com/users/21597352/subhadeep-chell)" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=stackoverflow" />
+</a>
+
+
+<a href="https://twitter.com/subhadeepchell" align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
 
